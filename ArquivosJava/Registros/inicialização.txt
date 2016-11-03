@@ -1,0 +1,5 @@
+Gelaterias Delicia
+Peso: 350.0
+Preço: 7.0
+Vendedor: Lucas Majado
+Cliente: Homem de ferro
